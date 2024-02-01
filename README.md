@@ -3,6 +3,8 @@
 📌 **Project Overview:**
 Introducing Business Insights 360, a transformative initiative utilizing Microsoft Power BI to empower AtliQ Hardware with comprehensive insights across Finance, Sales, Marketing, Supply Chain, and Executive Departments. The dynamic dashboard, crafted through meticulous data transformation and advanced modeling, facilitates strategic decision-making and maximizes the potential of raw data.
 
+**Live Dashboard Link**: https://app.powerbi.com/view?r=eyJrIjoiYWY5ZTMyNmYtNzdjZS00MTM2LTg1MTgtYmE4MDQ3MDNkNTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiond448c18f5384242b337e
+
 📌 **Company Snapshot:**
 AtliQ Hardware, a prominent hardware producer in India with a global presence, specializes in desktops, accessories, notebooks, storage, and networking. Operating through both brick-and-mortar and e-commerce channels, AtliQ serves renowned customers such as Amazon, Flipkart, Croma, Reliance Digital, and more.
 
